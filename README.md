@@ -11,7 +11,8 @@ Circuit:
 
 For the test I replaced the battery with a 5V power supply, and for ESP part I used a development
 board that included a 3.3V power regulator. This doesn't change the working of the circuit,
-as 3.3V is enough to turn the MOSfets in the IRF7317 on and off.
+as 3.3V is enough to turn the MOSfets in the IRF7317 on and off. The IRF7317 is an SMD component,
+so that was soldered to a little breakout board for SO-8 components.
 
 As I used an ESP-01, I used RX as output, as GPIO 0 and 2 need to be High when booting, which may not be 
 the case when used in this circuit.
