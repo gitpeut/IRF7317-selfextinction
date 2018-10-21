@@ -6,4 +6,4 @@ This is a small project demonstaring the use of a IRF7317.
 
 Circuit:
 
-
+<img src="https://github.com/gitpeut/IRF7317-selfextinction/blob/master/__schematicIRF7317.JPG" />
