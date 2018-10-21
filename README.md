@@ -22,6 +22,7 @@ Output of the sketch looks like this:
 
 <img src="https://github.com/gitpeut/IRF7317-selfextinction/blob/master/zelfdover_output.JPG" />
 
+It looks like <a href="https://github.com/gitpeut/IRF7317-selfextinction/blob/master/20181021_210043.mp4">this (click on RAW when shown the unattractive GITHUB message)</a> when running the sketch</a>. 
 Max current was about 70 mA while the LED was flashing. After extinguishing itself, I was not able to measure any current,
 although I used a medium ok multimeter in the uA range. The IRF7317 maintained room temperature, as expected with this
 minimal power usage.
