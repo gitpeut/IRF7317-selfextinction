@@ -1,6 +1,6 @@
 # IRF7317-selfextinction
 
-On <a href="https://youtu.be/g1rbIG2BO0U">Youtube</a>, Ralph Bacon explored some circuits with MOSFets that would 
+On <a href="https://youtu.be/g1rbIG2BO0U">Youtube</a>, Ralph S Bacon explored some circuits with MOSFets that would 
 have a micro processor turn off it's own power and possibly also it's other peripherals under program control.
 
 This is a small project demonstrating the use of a IRF7317.
